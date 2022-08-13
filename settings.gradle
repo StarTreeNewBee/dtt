@@ -1,0 +1,6 @@
+rootProject.name = "dtt"
+
+include 'api'
+include 'web'
+include 'core'
+include 'batch'
